@@ -14,4 +14,13 @@ Para instalar bastará con usar
 pip install requests
 ```
 
+## Modo de uso
+
+Para usar, sencillamente pude usar
+```bash
+py url_check.py archivo.txt
+```
+
+* archivo.txt es el que contendrá las urls a revisar.
+
 Cualquier comentario o aporte es bienvenido.
